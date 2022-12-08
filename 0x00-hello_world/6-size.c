@@ -1,6 +1,7 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - Entry
+ * code by unclefish365
  * Return: Always 0
  */
 int main(void)
