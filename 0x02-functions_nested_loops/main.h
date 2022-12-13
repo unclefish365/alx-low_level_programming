@@ -1,3 +1,5 @@
+#ifndef MAIN_H
+#define MAIN_H
 /**
  * File: main.h
  * Description: Header file containing declarattions for all functions
@@ -17,3 +19,5 @@ void times_table(void);
 int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
+
+#endif
