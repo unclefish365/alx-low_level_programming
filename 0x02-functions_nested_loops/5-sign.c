@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main block
+ * print_sign - prints the sign of a number
  * Description: prints the sign of a number
  * @n: the number of which the sign is to be printed
  * Return: 1 if the number is greater than 0

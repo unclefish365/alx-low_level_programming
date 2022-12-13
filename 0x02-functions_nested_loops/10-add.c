@@ -2,7 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main block
+ * add - adds two integers
+ * @num1: first integer to be added
+ * @num2: second integer to be added
  * Description: adds two integers
  * Return: The result of the addition
  */

@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main block
+ * times_table - prints the 9 times table from 0
  * Description: prints the 9 times table, starting with 0
  */
 void times_table(void)
@@ -20,7 +20,7 @@ void times_table(void)
 
 			prod = num * mult;
 
-			if (prod <=9)
+			if (prod <= 9)
 				_putchar(' ');
 			else
 				-putchar((prod / 10) + '0');
