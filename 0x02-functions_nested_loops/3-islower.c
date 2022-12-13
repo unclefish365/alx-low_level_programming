@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
  * _islower - checks if character is lowercase
- * @c - character in question
+ * @c: character in question
  * Description: checks if a character is lowercase
  * Return: 1 if character is lowercase, 0 if otherwise
  */
