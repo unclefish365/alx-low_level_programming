@@ -4,7 +4,7 @@
 /**
  * argstostr - concatenates all arguments of the program into a string
  * arguments are seperated by a new line in the string
- * @c: the number of arguments passed to the program
+ * @ac: the number of arguments passed to the program
  * @av: an array of pointers to the arguments
  *
  * Return: if ac == 0, av == NULL, or function fails - NULL
